@@ -8,5 +8,8 @@ tes tes
 ---
 ### KEUANGAN NEGARA
 +++
-## DIPERSEMBAHKAN
+## DIPERSEMBAHKAN OLEH
+- Nuki |
+- Ari The Kill |
+- Kepin |
 ---
