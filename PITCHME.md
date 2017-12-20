@@ -26,7 +26,7 @@ yang ada.
 ---
 
 #### Tampilan Login Super Admin
-![Tampilan Login Super Admin](/assets/images/01-login.png)
+![Tampilan Login Super Admin](/assets/images/01-tampilan-login.png)
 
 +++
 
