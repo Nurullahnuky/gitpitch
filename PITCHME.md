@@ -16,8 +16,8 @@ tes tes
 - Dimas |
 ---
 ## LANGKAH AWAL
-### Menganalisis |
-#### POAC |
+### Menganalisis 
+#### POAC 
 - Perencanaan |
 - Pengorganisasian |
 - Pelaksanaan |
