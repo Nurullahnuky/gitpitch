@@ -13,3 +13,6 @@ tes tes
 - Ari The Kill |
 - Kepin |
 ---
+- Menganalisis |
+- Pengorganisasian |
+- Pelaksanaan |
