@@ -12,8 +12,13 @@ tes tes
 - Nuki |
 - Ari The Kill |
 - Kepin |
+- Kokoh Aul |
+- Dimas |
 ---
 ## LANGKAH AWAL
-- Menganalisis |
+### Menganalisis |
+#### POAC |
+- Perencanaan |
 - Pengorganisasian |
 - Pelaksanaan |
+- Pengontrolan |
