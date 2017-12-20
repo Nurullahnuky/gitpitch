@@ -21,5 +21,9 @@ yang ada.
 ### TAMPILAN APLIKASI SIMBADA
 
 #### Tampilan Awal Simbada
-![Tampilan Awal Simbada](/assets/images/halaman-awal.png)
+![Tampilan Awal Simbada](/assets/images/00-tampilan-awal.png)
 
+---
+
+#### Tampilan Login Super Admin
+![Tampilan Login Super Admin](/assets/images/00-tampilan-awal.png)
