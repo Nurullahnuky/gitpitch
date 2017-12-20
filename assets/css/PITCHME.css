@@ -18,7 +18,20 @@ body {
   width: 100%;
   box-shadow : none;
 }
-
+.reveal h2 {
+    font-size: 2.11em;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    margin: 0 0 20px 0;
+    color: #ce1616;
+    font-family: "Montserrat", Impact, sans-serif;
+    font-weight: normal;
+    line-height: 1.2;
+    letter-spacing: -0.03em;
+    text-transform: none;
+    text-shadow: none;
+    word-wrap: break-word;
+}
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
@@ -28,7 +41,7 @@ body {
 }
 
 .reveal .slides section .code-presenting-annotation {
-  color: black;
+  color: white;
   background: #01155c;
   padding: 1px 15px;
   border-radius: 15px;
