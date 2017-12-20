@@ -6,13 +6,14 @@ tes tes
 ---
 ## ADMINISTRASI
 ---
-### KEUANGAN NEGARA
+## KEUANGAN NEGARA
 +++
 ## DIPERSEMBAHKAN OLEH
 - Nuki |
 - Ari The Kill |
 - Kepin |
 ---
+## LANGKAH AWAL
 - Menganalisis |
 - Pengorganisasian |
 - Pelaksanaan |
