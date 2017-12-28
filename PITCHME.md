@@ -1,76 +1,57 @@
-## APLIKASI SIMBADA (Sistem Informasi Manajemen Barang Daerah)
+title[Introduction]
+
+# Dinas <span class="gold">KominfoST</span>
+
+#### Seksi Pengembangan Aplikasi Informatika.*
+<br>
+<div class="byline front">[Evaluasi Kegiatan TA 2017]</div>
+<div class="byline front">[Rencana Kerja TA 2018]</div>
 
 ---
 
-### PENGERTIAN SIMBADA
-SIMBADA adalah sebuah aplikasi Sistem Informasi Manajemen Aset Barang Daerah yang berbasis webite
-yang dikeluarkan oleh Pemerintah Provinsi Banten untuk mendukung menatausahakan barang inventaris
-milik negara di lingkungan pemerintahan (Kabupaten/Kota/Provinsi). Dengan adanya sistem informasi
-manajemen ini mempunyai kelebihan dalam membantu user untuk memperoleh data lebih cepat, tepat
-dan akurat mengenai data aset tetap, penyusutan data mutasi, dan data ruang, dan persediaan barang
-yang ada.
+@title[Pengembangan Aplikasi]
+
+#### Dinas Komunikasi <span class="gold">Informatika</span> Statistik
+#### dan Persandian
+#### Seksi Pengembangan Aplikasi Informatika.
+<br>
+<span class="aside">Telah melaksanakan ...</span>
 
 ---
 
-### MAKSUD DAN TUJUAN APLIKASI SIMBADA
-- Maksud Penerapan SIMBADA Untuk mempercepat perolehan informasi mengenai inventarisasi Barang Daerah |
-- Tujuan Pelaksanaan SIMBADA Untuk mendapatkan data Barang Daerah yang benar dan akurat |
-
-+++
-
-### TAMPILAN APLIKASI SIMBADA
-
-#### Tampilan Awal Simbada
-![Tampilan Awal Simbada](/assets/images/00-tampilan-awal.png)
+## Pengertian aplikasi <span class="gold">Portal Banten</span> 
+Portal adalah aplikasi  e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat. dengan adanya web portal pemerintah ini dapat memudahkan masyarakat dalam mencari informasi tentang kegiatan dan info yang terdapat dipemerintah.
 
 ---
 
-#### Tampilan Login Super Admin
-![Tampilan Login Super Admin](/assets/images/01-tampilan-login.png)
-
-+++
-
-#### Tampilan Registrasi
-![Tampilan Registrasi](/assets/images/02-tampilan-registrasi.png)
+## cara akses aplikasi portal Banten
+Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url : http://portal-01.dev.bantenprov.go.id kemudian tekan Enter pada tombol keyboard atau klik tombol Go pada browser
 
 ---
 
-#### Tampilan Beranda Super Admin
-![Tampilan Beranda Super Admin](/assets/images/03-tampilan-beranda.png)
-
-+++
-
-#### Tampilan Konten Menu Pengguna
-![Tampilan Konten Menu Pengguna](/assets/images/04-tampilan-konten-menu-pengguna.png)
+selanjut nya maka akan keluar Tampilan Menu home portal banten 
 
 ---
 
-#### Tampilan Konten Daftar Pengguna
-![Tampilan Konten Daftar Pengguna](/assets/images/05-tampilan-daftar-pengguna.png)
+[![Tampilan utama portal](/document/asset/images/.png)
 
 ---
 
-#### Tampilan Konten Permission
-![Tampilan Konten Permission](/assets/images/06-tampilan-permission.png)
-
-+++
-
-#### Tampilan Konten Tambah Permission
-![Tampilan Konten Tambah Permission](/assets/images/07-tampilan-tambah-permission.png)
-
-+++
-
-#### Tampilan Konten Role
-![Tampilan Konten Role](/assets/images/08-tampilan-role.png)
+[![Tampilan layanan portal](/document/asset/images/.png)
 
 ---
 
-#### Tampilan Konten Tambah Role
-![Tampilan Konten Tambah Role](/assets/images/09-tampilan-tambah-role.png)
+[![Tampilan produk hukum ](/document/asset/images/.png)
 
 ---
 
-#### Tampilan Konten Menu Master Data
-![Tampilan Konten Menu Master Data](/assets/images/10-tampilan-konten-menu-master-data.png)
+[![Tampilan utama portal](/document/asset/images/.png)
+
+---
+
+[![Tampilan perijinan](/document/asset/images/.png)
+
+---
+
 
 
