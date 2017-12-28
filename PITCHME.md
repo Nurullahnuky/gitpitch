@@ -28,20 +28,19 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat.
 
 ---
-
-[![Tampilan utama portal](/assets/images/tampilan-awal-portal.png)
-
----
-
-[![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
+[Tampilan utama portal](/assets/images/tampilan-awal-portal.png)
 
 ---
 
-[![Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
+[Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 
 ---
 
-[![Tampilan perijinan](/assets/images/tampilan-perijinan.png)
+[Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
+
+---
+
+[Tampilan perijinan](/assets/images/tampilan-perijinan.png)
 
 ---
 
