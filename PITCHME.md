@@ -29,15 +29,15 @@ selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
-[![Tampilan utama portal](/document/asset/images/tampialn-utama-portal.png)
+[![Tampilan utama portal](/assets/images/tampialn-utama-portal.png)
 
 ---
 
-[![Tampilan layanan portal](/document/asset/images/tampilan-layanan-portal.png)
+[![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 
 ---
 
-[![Tampilan produk hukum ](/document/asset/images/tampilan-produk-hukum.png)
+[![Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
 
 ---
 
