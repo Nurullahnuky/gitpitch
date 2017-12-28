@@ -29,7 +29,7 @@ selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
-[![Tampilan utama portal](/assets/images/tampialn-utama-portal.png)
+[![Tampilan utama portal](/assets/images/tampilan-awal-portal.png)
 
 ---
 
