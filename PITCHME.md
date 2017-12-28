@@ -17,7 +17,7 @@ title[Introduction]
 ---
 
 ## Pengertian aplikasi <span class="gold">Portal Banten</span> 
-Portal adalah aplikasi  e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat. dengan adanya web portal pemerintah ini dapat memudahkan masyarakat dalam mencari informasi tentang kegiatan dan info yang terdapat dipemerintah.
+Portal adalah aplikasi  e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat. Dengan adanya web portal pemerintah ini dapat memudahkan masyarakat dalam mencari informasi tentang kegiatan dan info yang terdapat dipemerintah.
 
 ---
 
@@ -30,22 +30,22 @@ Selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
-### Tampilan Menu Home
+#### Tampilan Menu Home
 ![Tampilan utama portal](/assets/images/tampilan-awal-portal.png)
 
 ---
 
-### Tampilan LLayanan Portal
+#### Tampilan Layanan Portal
 ![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 
 ---
 
-### Tampilan Produk Hukum
+#### Tampilan Produk Hukum
 ![Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
 
 ---
 
-### Tampilan Perijinan
+#### Tampilan Perijinan
 ![Tampilan perijinan](/assets/images/tampilan-perijinan.png)
 
 ---
