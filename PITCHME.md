@@ -41,7 +41,7 @@ selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
-[![Tampilan perijinan](/document/asset/images/tampilan-perijinan.png)
+[![Tampilan perijinan](/document/assets/images/tampilan-perijinan.png)
 
 ---
 
