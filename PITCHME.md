@@ -35,6 +35,20 @@ Selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
+**Dalam tampilan home ini terdapat 10 sektor yaitu :** 
+- Sektor Sarana dan Prasarana |
+- Sektor Pemerintahan |
+- Sektor Pembangunan |
+- Sektor Pelayanan |
+- Sektor Legislatif |
+- Sektor Kewilayahan |
+- Sektor Keuangan |
+- Sektor Kepegawaian |
+- Sektor Kemasyarakatan |
+- Sektor Administrasi dan Manajemen |
+
++++
+
 #### Tampilan Layanan Portal
 ![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 
