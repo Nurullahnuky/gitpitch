@@ -30,24 +30,28 @@ Selanjut nya maka akan keluar Tampilan Menu home portal banten : agar maysarakat
 
 ---
 
+### Tampilan Menu Home
 ![Tampilan utama portal](/assets/images/tampilan-awal-portal.png)
 
 ---
 
+### Tampilan LLayanan Portal
 ![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 
 ---
 
+### Tampilan Produk Hukum
 ![Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
 
 ---
 
+### Tampilan Perijinan
 ![Tampilan perijinan](/assets/images/tampilan-perijinan.png)
 
 ---
 
-### SEKIAN
+## SEKIAN
 # Dinas <span class="gold">KominfoST</span>
 
-#### Seksi Pengembangan Aplikasi Informatika.
+### Seksi Pengembangan Aplikasi Informatika.
 
