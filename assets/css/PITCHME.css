@@ -14,6 +14,11 @@ body {
   background: linear-gradient(to right, #021B79, #0575E6);
 }
 
+.reveal img, .reveal video, .reveal iframe {
+    max-width: 90%;
+    max-height: 95%;
+}
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
