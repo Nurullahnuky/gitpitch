@@ -1,4 +1,4 @@
-title[Introduction]
+@title[cover]
 
 
 # Dinas <span class="gold">KominfoST</span>
