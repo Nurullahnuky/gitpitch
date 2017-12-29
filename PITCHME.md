@@ -21,7 +21,7 @@ Untuk mempermudah masyarakat memperoleh akses informasi. Untuk mencapai sasaran 
 ---
 
 ## Pengertian aplikasi <span class="gold">Portal Banten</span> 
-Portal adalah aplikasi  e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat. Dengan adanya web portal pemerintah ini dapat memudahkan masyarakat dalam mencari informasi tentang kegiatan dan info yang terdapat dipemerintah.
+Portal adalah aplikasi e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat untuk mendapatkan informasi dan kegiatan pemerintah. 
 
 ---
 
