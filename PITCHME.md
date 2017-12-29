@@ -32,8 +32,6 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 
 Selanjut nya maka akan keluar Tampilan aplikasi portal banten : 
 
----
-
 <span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
 
