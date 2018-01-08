@@ -8,24 +8,24 @@
 
 @title[Introduction]
 
-## Pengembangan Aplikasi <span class="gold">Portal Banten</span>
+### Pengembangan Aplikasi <span class="gold">Portal Banten</span>
 
 ---
 
 @title[Tujuan]
 
-## Tujuan pengembangan <span class="gold">Portal Banten</span> 
+### Tujuan pengembangan <span class="gold">Portal Banten</span> 
 Untuk mempermudah masyarakat memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat.
 
 
 ---
 
-## Pengertian aplikasi <span class="gold">Portal Banten</span> 
+### Pengertian aplikasi <span class="gold">Portal Banten</span> 
 Portal adalah aplikasi e-goverment dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi dan kegiatan pemerintah. Maka semua informasi perlu dikumpulkan dalam satu wadah portal web 
 
 ---
 
-## cara akses aplikasi <span class="gold">Portal Banten</span>
+### cara akses aplikasi <span class="gold">Portal Banten</span>
 Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozila Firefox atau yang lainnya) http://portal-01.dev.bantenprov.go.id 
 
 ---
