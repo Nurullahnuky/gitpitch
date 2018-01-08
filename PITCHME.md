@@ -91,8 +91,8 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 
 ---
 
-## SEKIAN
+### SEKIAN
 # Dinas <span class="gold">KominfoST</span>
 
-### Seksi Pengembangan Aplikasi Informatika.
+#### Seksi Pengembangan Aplikasi Informatika.
 
