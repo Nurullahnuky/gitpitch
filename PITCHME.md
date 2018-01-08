@@ -69,6 +69,11 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 
 #### Tampilan Layanan Portal
 
+<span style="font-size:0.6em; color:gray">Tampilan Layanan <span class="gold">Portal</span></span>
+@fa[arrow-down]
+
++++
+
 ![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -77,6 +82,11 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 
 #### Tampilan Produk Hukum
 
+<span style="font-size:0.6em; color:gray">Tampilan <span class="gold">Produk Hukum</span></span>
+@fa[arrow-down]
+
++++
+
 ![Tampilan produk hukum ](/assets/images/tampilan-produk-hukum.png)
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
@@ -84,6 +94,11 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 +++
 
 #### Tampilan Perijinan
+
+<span style="font-size:0.6em; color:gray">Tampilan <span class="gold">Perijinan</span></span>
+@fa[arrow-down]
+
++++
 
 ![Tampilan perijinan](/assets/images/tampilan-perijinan.png)
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
