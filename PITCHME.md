@@ -1,8 +1,8 @@
 @title[Cover]
 
-# Dinas <span class="gold">KominfoST</span>
+## Dinas <span class="gold">KominfoST</span>
 
-### Seksi Pengembangan Aplikasi <span class="gold">Portal Banten</span>
+#### Seksi Pengembangan Aplikasi <span class="gold">Portal Banten</span>
 
 ---
 
@@ -92,7 +92,9 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 ---
 
 ### SEKIAN
-# Dinas <span class="gold">KominfoST</span>
+## Dinas <span class="gold">KominfoST</span>
 
-#### Seksi Pengembangan Aplikasi Informatika.
+#### Seksi Pengembangan Aplikasi Informatika.*
+
+
 
