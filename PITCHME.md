@@ -70,7 +70,6 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 #### Tampilan Layanan Portal
 
 ![Tampilan layanan portal](/assets/images/tampilan-layanan-portal.png)
-
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
